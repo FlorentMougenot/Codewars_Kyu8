@@ -1,3 +1,4 @@
+```js
 /*
 Description:
 
@@ -12,3 +13,4 @@ function evenOrOdd(number) {
     return ("Odd")
   }
 }
+```
