@@ -18,7 +18,7 @@ Examples
 */
 
 const stringToNumber = function(str){
-  return (Number(str))// put your code here
+  return (Number(str))
   return null;
 }
 ```

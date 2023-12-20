@@ -24,6 +24,6 @@ function countSheeps(sheep) {
     if (sheep[i] == true)
       total ++
     }
-  return total// TODO
+  return total
 }
 ```
